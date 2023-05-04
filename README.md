@@ -7,3 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloydey9&theme=light&show_icons=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=niloydey9)  
+
+![Profile views](https://gpvc.arturio.dev/niloydey9)  
