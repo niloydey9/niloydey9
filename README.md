@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=niloydey9)  
 
 ![Profile views](https://gpvc.arturio.dev/niloydey9)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niloydey9)  
+
+![GitHub metrics](https://metrics.lecoq.io/niloydey9)  
