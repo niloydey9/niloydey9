@@ -15,12 +15,13 @@ I am a seasoned front-end developer and WordPress specialist. My passion for des
 ### 👨‍💻 Skills & Experiance:
 - ✅ HTML5 
 - ✅ CSS3 
-- ✅ JavaScript
 - ✅ SASS
+- ✅ JavaScript
+- ✅ jQuery
 - ✅ Bootstrap
-- ✅ WordPress
 - ✅ Vue Js
-- ✅ Photoshop / Illustrator
+- ✅ WordPress
+- ✅ Photoshop / Illustrator / Figma / XD
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloydey9&theme=light&show_icons=true)
 <!---
