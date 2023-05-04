@@ -1,9 +1,12 @@
 ## Greetings everyone 👋, 
 ### My name is Niloy Dey Sarkar.
 
-👑 I am Web Developer
-🖊️ Love to write code
-🎤 Like to share my knowledge
+- 👑 I am Web Developer (Wordpress Expert)
+- 🖊️ Love to write code
+- 🎤 Like to share my knowledge
+- 🔭 I’m currently working on BDchatbots 
+- 🌱 I’m currently learning Vue Js 
+
 ![Profile views](https://gpvc.arturio.dev/niloydey9)  
 
 ### 🚀 About Me:
