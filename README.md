@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=niloydey9)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=niloydey9)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloydey9)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloydey9)
