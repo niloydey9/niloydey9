@@ -29,6 +29,10 @@ I am a seasoned front-end developer and WordPress specialist. My passion for des
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloydey9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niloydey9)](https://github.com/ryo-ma/github-profile-trophy)
+## ☕ Connect with me!
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://bd.linkedin.com/in/niloydeysarkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://m.facebook.com/niloydaysarkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/niloy_day)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/niloydeysarkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCNJmscqNwjuvDOqBBHLpLUA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/niloydeysarkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/niloydeysarkar)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=niloydey9)](https://github.com/ryo-ma/github-profile-trophy)
+## 📧 For Business Inquiries
 
