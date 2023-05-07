@@ -35,4 +35,4 @@ I am a seasoned front-end developer and WordPress specialist. My passion for des
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niloydey9)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📧 For Business Inquiries
-
+niloydeysarkar@gmail.com
